@@ -1,6 +1,6 @@
 ---
 title: "Un poco de mí"
-date: 2022-03-01
+date: 2022-04-02
 description: 'Describo un poco sobre mi, mi experiencia, mi educacion y mis motivaciones'
 ---
 
