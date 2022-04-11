@@ -4,8 +4,10 @@ date: 2022-02-21T18:16:21-06:00
 description: 'Esta es una descripción personal, de como es ser un buen desarrollador de sofware'
 ---
 
-Que tal seres programadores!
-![image](https://user-images.githubusercontent.com/99065349/162665188-e8e74d20-9698-436b-8960-6e5fd815ffcd.png)
+                                             # Que tal seres programadores!
+
+
+                    ![image](https://user-images.githubusercontent.com/99065349/162665188-e8e74d20-9698-436b-8960-6e5fd815ffcd.png)
 
 
 Un día nublado como hoy es perfecto para hablar un poco de la cultura de un profesional de software.
@@ -26,7 +28,7 @@ conocimiento a aquellos que apenas van empezando en esta rama.
 ***Puedo seguir hablando de los valores, emociones y demás cosas que valore de los desarrollador@s de software, pero mejor descubramoslo 
 juntos a lo largo de mi blog, asi que vamos al infinito y mas alla!! :) ***
 
-![image](https://user-images.githubusercontent.com/99065349/162665401-3bf6288b-41fc-4467-836b-52e7baaf532d.png)
+             ![image](https://user-images.githubusercontent.com/99065349/162665401-3bf6288b-41fc-4467-836b-52e7baaf532d.png)
 
 
 
