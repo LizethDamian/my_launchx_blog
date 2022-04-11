@@ -9,9 +9,13 @@ description: 'Aprendizaje de LaunchX en Onboarding y FrontEnd'
 > Onboarding
 
 >> En estas sesiones con la Mision Comander Fer, obtuvimos conocimientos basicos de: 
->> -GitHub 
->> -Python
->> -Jupyter
+>>
+>> - GitHub 
+>> 
+>> - Python
+>> 
+>> - Jupyter
+>> 
 >> En estas practicas lo que mas me gusto fue que eran sencillas de entender y nos 
 >> brindaban muchos materiales para poder seguir experimentando y aprendiendo. 
 
