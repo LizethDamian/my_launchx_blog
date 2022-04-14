@@ -7,15 +7,24 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+#Hi! acompañame en esta gran experiencia de LaunchX
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Primero te hablare un poco de mi 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Soy una estudiante universitaria, vivo en la Ciudad de México
+tengo 19 años y aun tengo muchos sueños, propositos y metas que 
+cumplir. 
+
+Espero poder aprender muchas cosas en el transcurso de mi vida
+pero tambien relajarme y divertirme con los que mas amo. 
+
+Mi lema de vida a mis 19 años es: 
+
+#***"Quien tenga miedo a morir que no nazca"***
+
+jajaja quisiera decir que es broma pero no lo es, vivamos al maximo seamos jovenes 
+o no, mientras aun estemos aquí, podemos hacer lo que queramos, si afectar a otros 
+o nuestra integridad fisica claro. 
+
+>Gracias por leerme!!! 
 
