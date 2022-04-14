@@ -1,6 +1,6 @@
 ---
 title: "¿Que es ser un buen desarrollador de software?"
-date: 2022-02-21T18:16:21-06:00
+date: 2022-Abirl-2 
 description: 'Esta es una descripción personal, de como es ser un buen desarrollador de sofware'
 ---
 
