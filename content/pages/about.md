@@ -5,9 +5,9 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+# Who am I
 
-#Hi! acompañame en esta gran experiencia de LaunchX
+## Hi! acompañame en esta gran experiencia de LaunchX
 
 Primero te hablare un poco de mi 
 
@@ -20,7 +20,7 @@ pero tambien relajarme y divertirme con los que mas amo.
 
 Mi lema de vida a mis 19 años es: 
 
-#***"Quien tenga miedo a morir que no nazca"***
+# ***"Quien tenga miedo a morir que no nazca"***
 
 jajaja quisiera decir que es broma pero no lo es, vivamos al maximo seamos jovenes 
 o no, mientras aun estemos aquí, podemos hacer lo que queramos, si afectar a otros 
