@@ -11,9 +11,6 @@
     <loc>https://github.com/LizethDamian/my_launchx_blog/posts/about/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/LizethDamian/my_launchx_blog/posts/intro/</loc>
-    <lastmod>2022-02-21T18:16:21-06:00</lastmod>
-  </url><url>
     <loc>https://github.com/LizethDamian/my_launchx_blog/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,5 +21,7 @@
     <loc>https://github.com/LizethDamian/my_launchx_blog/pages/</loc>
   </url><url>
     <loc>https://github.com/LizethDamian/my_launchx_blog/tags/</loc>
+  </url><url>
+    <loc>https://github.com/LizethDamian/my_launchx_blog/posts/intro/</loc>
   </url>
 </urlset>
